@@ -14,7 +14,16 @@
 
 namespace Mindy\Exception;
 
-
+/**
+ * All rights reserved.
+ *
+ * @author Falaleev Maxim
+ * @email max@studio107.ru
+ * @version 1.0
+ * @company Studio107
+ * @site http://studio107.ru
+ * @date 09/06/14.06.2014 17:25
+ */
 class Exception extends \Exception
 {
 

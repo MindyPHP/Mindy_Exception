@@ -2,7 +2,7 @@
     "name": "mindy/exception",
     "homepage": "https://github.com/studio107/Mindy_Exception",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "0.1",
     "autoload": {
         "psr-0": {
             "": "src/"

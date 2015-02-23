@@ -12,7 +12,7 @@ namespace Mindy\Exception;
  * @link http://www.yiiframework.com/
  * @copyright 2008-2013 Yii Software LLC
  * @license http://www.yiiframework.com/license/
- * @package system.base
+ * @package Mindy\Exception
  * @since 1.0
  */
 class HttpException extends Exception
